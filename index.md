@@ -3,24 +3,22 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+My name is Kwon Na-yoon, and I am a student in the Department of Medical IT Engineering at Konyang University in South Korea.
+My dream is to become a game developer and designer, and I will work hard to achieve that goal.
 
 <br/>
 
 # Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+🎮 I'm a first-year university student interested in game development.
+💻 I'm learning programming and exploring different technologies.
+🐍 I enjoy using Python and finding ways to automate repetitive tasks.
+🚀 I'm excited to build games, work on personal projects, and learn new things.
 
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+Game Development
+Gameplay Programming
+Learning New Technologies
+Python Programming
+Automation and Problem Solving
